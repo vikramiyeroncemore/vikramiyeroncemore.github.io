@@ -1,7 +1,7 @@
 ---
 layout: page
 title: thefloraofindia
-description: with background image
+description: An Instagram page on the flora of India.
 img: assets/img/palash.png
 importance: 1
 category: Miscellany
