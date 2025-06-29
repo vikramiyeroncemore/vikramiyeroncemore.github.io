@@ -2,18 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. 
 
 profile:
   align: right
   image: Vikram-Iyer.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>PhD student</p>
-    <p>IISER Mohali</p>
-    <p>Indian Institue of Science Education and Research, Mohali, India</p>
+    <p>PhD student;</p>
+    <p>[Indian Institue of Science Education and Research, Mohali, India](https://www.iisermohali.ac.in/)</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -27,5 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello and welcome. I am Vikram Iyer, and I am joining as a PhD student at IISER Mohali this fall. Scientific interest-wise, I am broadly interested in ecology and evolution. Otherwise, I am interested in most things. Do have a look around! 
+Hello and welcome! I am Vikram Iyer, and I am joining as a PhD student at [IISER Mohali](https://www.iisermohali.ac.in/) this fall. Scientific interest-wise, I am broadly interested in ecology and evolution. Otherwise, I am interested in most things. Do have a look around! 
 
