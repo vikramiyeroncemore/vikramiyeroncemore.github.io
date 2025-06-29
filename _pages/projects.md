@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Here are some of the non-academic activities I'm involved in
+description: You'll find here some of the non-academic activities I'm involved in
 nav: true
 nav_order: 3
 display_categories: [Miscellany]

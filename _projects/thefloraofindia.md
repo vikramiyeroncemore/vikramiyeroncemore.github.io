@@ -8,7 +8,7 @@ category: Miscellany
 related_publications: false
 ---
 
-Since February 2023, I have been managing an Instagram page called [thefloraofindia](https://www.instagram.com/thefloraofindia/). The premise is straightforward: I photograph and post one plant from India's flora (which has ~20,000 species) for each post, with no repetitions. Over the days, this page has covered over 600 plant species of India, with field notes, identifying features, and other information that might be of interest.
+I have been running an Instagram page called [thefloraofindia](https://www.instagram.com/thefloraofindia/), which I started back in February 2023. The premise is straightforward: I photograph and post one plant from India's flora (which has ~20,000 species) for each post, with no repetitions. This page has covered over 600 plant species of India since, with each post having field notes, identifying features, and other information that might be of interest.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -22,4 +22,4 @@ Since February 2023, I have been managing an Instagram page called [thefloraofin
     </div>
 </div>
 <div class="caption">
-    Left: _Chloris flagellifera_, a grass species native to the Aravallis. Middle: _Porpax reticulata_, an epiphytic orchid from the Northern Western Ghats. Right: _Primula denticulata_ from the subalpine forests of Kinnaur, Himachal Pradesh.
+    Left: <i>Chloris flagellifera</i>, a grass species native to the Aravallis. Middle: <i>Porpax reticulata</i>, an epiphytic orchid from the Northern Western Ghats. Right: <i>Primula denticulata</i> from the subalpine forests of Kinnaur, Himachal Pradesh.
