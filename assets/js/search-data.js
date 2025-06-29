@@ -420,7 +420,7 @@ ninja.data = [{
           title: 'thefloraofindia',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/thefloraofindia/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
