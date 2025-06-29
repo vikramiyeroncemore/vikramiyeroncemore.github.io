@@ -418,7 +418,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-thefloraofindia",
           title: 'thefloraofindia',
-          description: "with background image",
+          description: "An Instagram page on the flora of India.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/thefloraofindia/";
             },},{
