@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Landing
 permalink: /
 
 profile:
@@ -25,5 +25,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello and welcome! I am Vikram Iyer, and I am joining as a PhD student at [IISER Mohali](https://www.iisermohali.ac.in/) this fall. Scientific interest-wise, I am broadly interested in ecology and evolution. Otherwise, I am interested in most things. Do have a look around! 
+Hello and welcome! I am Vikram Iyer, and I am an incoming PhD student at [IISER Mohali](https://www.iisermohali.ac.in/) this fall. Scientific interest-wise, I am broadly interested in ecology and evolution. Otherwise, I am interested in most things. Do have a look around! 
 
